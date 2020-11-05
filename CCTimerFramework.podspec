@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.author       = "Zijun Cao"
   spec.platform     = :ios
   spec.source       = { :git => "https://github.com/731704267/CCTimerFramework.git", :tag => "#{spec.version}" }
-  spec.source_files  = "CCTimerFramework/*"
+  #spec.source_files  = "CCTimerFramework/*"
   spec.framework  = "Foundation"
   spec.requires_arc = true
 end

@@ -1,0 +1,6 @@
+framework module CCTimer {
+  umbrella header "CCTimer.h"
+
+  export *
+  module * { export * }
+}
